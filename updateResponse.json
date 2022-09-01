@@ -1,0 +1,20 @@
+{
+    "Lead": {
+        "Errors Descriptions": {},
+        "Stadistics": {
+            "Errors": "0",
+            "Created": "0",
+            "Success": "0",
+            "Total": "0"
+        }
+    },
+    "Account": {
+        "Errors Descriptions": {},
+        "Stadistics": {
+            "Errors": "0",
+            "Created": "0",
+            "Success": "1",
+            "Total": "1"
+        }
+    }
+}
