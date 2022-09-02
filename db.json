@@ -17,4 +17,14 @@
             "Total": "1"
         }
     }
+    "clientes": [
+        {
+            "cliente": {
+                "NUM_CLIENTE_PK": "46464",
+                "NOMBRE": "Nalle",
+                "APELLIDO_PATERNO": "Moreno",
+                "PROSPECTO_ORIGEN": ""
+            }
+        }
+    ]
 }
