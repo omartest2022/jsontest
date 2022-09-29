@@ -1,33 +1,47 @@
 {
-    "posts": [
-        "Lead": {
-            "Errors Descriptions": {},
-            "Stadistics": {
-                "Errors": "0",
-                "Created": "0",
-                "Success": "0",
-                "Total": "0"
-            }
-        },
-        "Account": {
-            "Errors Descriptions": {},
-            "Stadistics": {
-                "Errors": "0",
-                "Created": "0",
-                "Success": "1",
-                "Total": "1"
-            }
-        }
-    ],
-    
-    "clientes": [
-        {
-            "cliente": {
-                "NUM_CLIENTE_PK": "46464",
-                "NOMBRE": "Nalle",
-                "APELLIDO_PATERNO": "Moreno",
-                "PROSPECTO_ORIGEN": ""
-            }
-        }
-    ]
+   "posts":[
+      {
+         "Errors Descriptions":{
+            
+         },
+         "Stadistics":{
+            "Errors":"0",
+            "Created":"0",
+            "Success":"0",
+            "Total":"0"
+         }
+      }
+   ],
+   "Lead":{
+      "Errors Descriptions":{
+         
+      },
+      "Stadistics":{
+         "Errors":"0",
+         "Created":"0",
+         "Success":"0",
+         "Total":"0"
+      }
+   },
+   "Account":{
+      "Errors Descriptions":{
+         
+      },
+      "Stadistics":{
+         "Errors":"0",
+         "Created":"0",
+         "Success":"1",
+         "Total":"1"
+      }
+   },
+   "clientes":[
+      {
+         "cliente":{
+            "NUM_CLIENTE_PK":"46464",
+            "NOMBRE":"Nalle",
+            "APELLIDO_PATERNO":"Moreno",
+            "PROSPECTO_ORIGEN":""
+         }
+      }
+   ]
 }
